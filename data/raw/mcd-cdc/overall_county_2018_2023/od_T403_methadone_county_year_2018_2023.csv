@@ -1,0 +1,561 @@
+"Notes","County","County Code","Year","Year Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval
+,"Jefferson County, AL","01073","2018","2018",10,659300,1.5,0.7,2.8
+,"Anchorage Borough, AK","02020","2021","2021",10,288121,3.5,1.7,6.4
+,"Maricopa County, AZ","04013","2018","2018",42,4410824,1.0,0.7,1.3
+,"Maricopa County, AZ","04013","2019","2019",49,4485414,1.1,0.8,1.4
+,"Maricopa County, AZ","04013","2020","2020",51,4579081,1.1,0.8,1.5
+,"Maricopa County, AZ","04013","2021","2021",45,4496588,1.0,0.7,1.3
+,"Maricopa County, AZ","04013","2022","2022",44,4551524,1.0,0.7,1.3
+,"Maricopa County, AZ","04013","2023","2023",44,4585871,1.0,0.7,1.3
+,"Maricopa County, AZ","04013","2024 ","2024",55,4673096,1.2,0.9,1.5
+,"Pima County, AZ","04019","2018","2018",16,1039073,1.5,0.9,2.5
+,"Pima County, AZ","04019","2019","2019",17,1047279,1.6,0.9,2.6
+,"Pima County, AZ","04019","2020","2020",15,1061175,1.4,0.8,2.3
+,"Pima County, AZ","04019","2021","2021",22,1052030,2.1,1.3,3.2
+,"Pima County, AZ","04019","2022","2022",24,1057597,2.3,1.5,3.4
+,"Pima County, AZ","04019","2023","2023",24,1063162,2.3,1.4,3.4
+,"Pima County, AZ","04019","2024 ","2024",35,1080149,3.2,2.3,4.5
+,"Alameda County, CA","06001","2018","2018",10,1666753,0.6,0.3,1.1
+,"Alameda County, CA","06001","2021","2021",15,1648556,0.9,0.5,1.5
+,"Alameda County, CA","06001","2022","2022",11,1628997,0.7,0.3,1.2
+,"Alameda County, CA","06001","2023","2023",11,1622188,0.7,0.3,1.2
+,"Alameda County, CA","06001","2024 ","2024",17,1649060,1.0,0.6,1.7
+,"Contra Costa County, CA","06013","2018","2018",12,1150215,1.0,0.5,1.8
+,"Fresno County, CA","06019","2018","2018",10,994400,1.0,0.5,1.8
+,"Fresno County, CA","06019","2022","2022",12,1015190,1.2,0.6,2.1
+,"Fresno County, CA","06019","2023","2023",15,1017162,1.5,0.8,2.4
+,"Fresno County, CA","06019","2024 ","2024",15,1024125,1.5,0.8,2.4
+,"Kern County, CA","06029","2018","2018",11,896764,1.2,0.6,2.2
+,"Kern County, CA","06029","2019","2019",12,900202,1.3,0.7,2.3
+,"Kern County, CA","06029","2020","2020",22,901362,2.4,1.5,3.7
+,"Kern County, CA","06029","2021","2021",14,917673,1.5,0.8,2.6
+,"Kern County, CA","06029","2022","2022",15,916108,1.6,0.9,2.7
+,"Kern County, CA","06029","2023","2023",10,913820,1.1,0.5,2.0
+,"Los Angeles County, CA","06037","2018","2018",36,10105518,0.4,0.2,0.5
+,"Los Angeles County, CA","06037","2019","2019",30,10039107,0.3,0.2,0.4
+,"Los Angeles County, CA","06037","2020","2020",44,9943046,0.4,0.3,0.6
+,"Los Angeles County, CA","06037","2021","2021",23,9829544,0.2,0.1,0.4
+,"Los Angeles County, CA","06037","2022","2022",16,9721138,0.2,0.1,0.3
+,"Los Angeles County, CA","06037","2023","2023",20,9663345,0.2,0.1,0.3
+,"Orange County, CA","06059","2018","2018",16,3185968,0.5,0.3,0.8
+,"Orange County, CA","06059","2019","2019",15,3175692,0.5,0.3,0.8
+,"Orange County, CA","06059","2020","2020",25,3166857,0.8,0.5,1.2
+,"Orange County, CA","06059","2021","2021",27,3167809,0.9,0.6,1.2
+,"Orange County, CA","06059","2022","2022",15,3151184,0.5,0.3,0.8
+,"Orange County, CA","06059","2023","2023",15,3135755,0.5,0.3,0.8
+,"Orange County, CA","06059","2024 ","2024",18,3170435,0.6,0.3,0.9
+,"Riverside County, CA","06065","2020","2020",10,2489188,0.4,0.2,0.7
+,"Riverside County, CA","06065","2022","2022",10,2473902,0.4,0.2,0.7
+,"Riverside County, CA","06065","2024 ","2024",11,2529933,0.4,0.2,0.8
+,"Sacramento County, CA","06067","2019","2019",17,1552058,1.1,0.6,1.8
+,"Sacramento County, CA","06067","2020","2020",12,1559146,0.8,0.4,1.3
+,"Sacramento County, CA","06067","2021","2021",16,1588921,1.0,0.6,1.6
+,"Sacramento County, CA","06067","2022","2022",21,1584169,1.3,0.8,2.0
+,"Sacramento County, CA","06067","2023","2023",14,1584288,0.9,0.5,1.5
+,"Sacramento County, CA","06067","2024 ","2024",17,1611231,1.1,0.6,1.7
+,"San Diego County, CA","06073","2018","2018",23,3343364,0.7,0.4,1.0
+,"San Diego County, CA","06073","2019","2019",13,3338330,0.4,0.2,0.7
+,"San Diego County, CA","06073","2020","2020",26,3332427,0.8,0.5,1.1
+,"San Diego County, CA","06073","2021","2021",29,3286069,0.9,0.6,1.3
+,"San Diego County, CA","06073","2022","2022",18,3276208,0.5,0.3,0.9
+,"San Diego County, CA","06073","2023","2023",14,3269973,0.4,0.2,0.7
+,"San Diego County, CA","06073","2024 ","2024",17,3298799,0.5,0.3,0.8
+,"San Francisco County, CA","06075","2018","2018",24,883305,2.7,1.7,4.0
+,"San Francisco County, CA","06075","2019","2019",24,881549,2.7,1.7,4.1
+,"San Francisco County, CA","06075","2020","2020",27,866606,3.1,2.1,4.5
+,"San Francisco County, CA","06075","2021","2021",23,815201,2.8,1.8,4.2
+,"San Francisco County, CA","06075","2022","2022",28,808437,3.5,2.3,5.0
+,"San Francisco County, CA","06075","2023","2023",22,808988,2.7,1.7,4.1
+,"San Francisco County, CA","06075","2024 ","2024",15,827526,1.8,1.0,3.0
+,"San Joaquin County, CA","06077","2018","2018",10,752660,1.3,0.6,2.4
+,"San Joaquin County, CA","06077","2023","2023",10,800965,1.2,0.6,2.3
+,"Ventura County, CA","06111","2018","2018",11,850967,1.3,0.6,2.3
+,"Ventura County, CA","06111","2023","2023",11,829590,1.3,0.7,2.4
+,"Denver County, CO","08031","2018","2018",11,716492,1.5,0.8,2.7
+,"Denver County, CO","08031","2020","2020",19,735538,2.6,1.6,4.0
+,"Denver County, CO","08031","2021","2021",16,711463,2.2,1.3,3.7
+,"Denver County, CO","08031","2022","2022",15,713252,2.1,1.2,3.5
+,"Denver County, CO","08031","2024 ","2024",21,729019,2.9,1.8,4.4
+,"El Paso County, CO","08041","2020","2020",12,728310,1.6,0.9,2.9
+,"El Paso County, CO","08041","2022","2022",13,740567,1.8,0.9,3.0
+,"El Paso County, CO","08041","2023","2023",13,744215,1.7,0.9,3.0
+,"El Paso County, CO","08041","2024 ","2024",17,752772,2.3,1.3,3.6
+,"Jefferson County, CO","08059","2018","2018",12,580233,2.1,1.1,3.6
+,"Fairfield County, CT","09001","2018","2018",24,943823,2.5,1.6,3.8
+,"Fairfield County, CT","09001","2019","2019",19,943332,2.0,1.2,3.1
+,"Fairfield County, CT","09001","2020","2020",24,942426,2.5,1.6,3.8
+,"Fairfield County, CT","09001","2021","2021",29,959768,3.0,2.0,4.3
+,"Fairfield County, CT","09001","2022","2022",24,Not Available,Not Available,Not Available,Not Available
+,"Fairfield County, CT","09001","2023","2023",37,Not Available,Not Available,Not Available,Not Available
+,"Fairfield County, CT","09001","2024 ","2024",23,Not Available,Not Available,Not Available,Not Available
+,"Hartford County, CT","09003","2018","2018",15,892697,1.7,0.9,2.8
+,"Hartford County, CT","09003","2020","2020",23,889226,2.6,1.6,3.9
+,"Hartford County, CT","09003","2021","2021",24,896854,2.7,1.7,4.0
+,"Hartford County, CT","09003","2022","2022",31,Not Available,Not Available,Not Available,Not Available
+,"Hartford County, CT","09003","2023","2023",30,Not Available,Not Available,Not Available,Not Available
+,"Hartford County, CT","09003","2024 ","2024",30,Not Available,Not Available,Not Available,Not Available
+,"New Haven County, CT","09009","2018","2018",21,857620,2.4,1.5,3.7
+,"New Haven County, CT","09009","2019","2019",39,854757,4.6,3.2,6.2
+,"New Haven County, CT","09009","2020","2020",34,851948,4.0,2.8,5.6
+,"New Haven County, CT","09009","2021","2021",44,863700,5.1,3.7,6.8
+,"New Haven County, CT","09009","2022","2022",51,Not Available,Not Available,Not Available,Not Available
+,"New Haven County, CT","09009","2023","2023",41,Not Available,Not Available,Not Available,Not Available
+,"New Haven County, CT","09009","2024 ","2024",45,Not Available,Not Available,Not Available,Not Available
+,"New London County, CT","09011","2020","2020",13,264999,4.9,2.6,8.4
+,"New Castle County, DE","10003","2018","2018",12,559335,2.1,1.1,3.7
+,"New Castle County, DE","10003","2019","2019",17,558753,3.0,1.8,4.9
+,"New Castle County, DE","10003","2020","2020",20,561531,3.6,2.2,5.5
+,"New Castle County, DE","10003","2021","2021",29,571708,5.1,3.4,7.3
+,"New Castle County, DE","10003","2022","2022",14,575494,2.4,1.3,4.1
+,"New Castle County, DE","10003","2023","2023",28,578592,4.8,3.2,7.0
+,"New Castle County, DE","10003","2024 ","2024",21,588093,3.6,2.2,5.5
+,"Sussex County, DE","10005","2020","2020",11,241635,4.6,2.3,8.1
+,"Sussex County, DE","10005","2022","2022",14,255956,5.5,3.0,9.2
+,"District of Columbia, DC","11001","2018","2018",10,702455,1.4,0.7,2.6
+,"District of Columbia, DC","11001","2019","2019",15,705749,2.1,1.2,3.5
+,"District of Columbia, DC","11001","2020","2020",30,712816,4.2,2.8,6.0
+,"District of Columbia, DC","11001","2021","2021",22,670050,3.3,2.1,5.0
+,"District of Columbia, DC","11001","2022","2022",21,671803,3.1,1.9,4.8
+,"District of Columbia, DC","11001","2023","2023",14,678972,2.1,1.1,3.5
+,"District of Columbia, DC","11001","2024 ","2024",16,702250,2.3,1.3,3.7
+,"Brevard County, FL","12009","2018","2018",14,596849,2.3,1.3,3.9
+,"Broward County, FL","12011","2020","2020",11,1958105,0.6,0.3,1.0
+,"Broward County, FL","12011","2022","2022",10,1947026,0.5,0.2,0.9
+,"Duval County, FL","12031","2018","2018",13,950181,1.4,0.7,2.3
+,"Duval County, FL","12031","2019","2019",14,957755,1.5,0.8,2.5
+,"Duval County, FL","12031","2020","2020",23,966728,2.4,1.5,3.6
+,"Duval County, FL","12031","2021","2021",19,999935,1.9,1.1,3.0
+,"Duval County, FL","12031","2022","2022",18,1016536,1.8,1.0,2.8
+,"Duval County, FL","12031","2023","2023",13,1030822,1.3,0.7,2.2
+,"Duval County, FL","12031","2024 ","2024",15,1055159,1.4,0.8,2.3
+,"Hillsborough County, FL","12057","2018","2018",16,1436888,1.1,0.6,1.8
+,"Hillsborough County, FL","12057","2019","2019",12,1471968,0.8,0.4,1.4
+,"Hillsborough County, FL","12057","2020","2020",13,1497957,0.9,0.5,1.5
+,"Hillsborough County, FL","12057","2021","2021",18,1478194,1.2,0.7,1.9
+,"Hillsborough County, FL","12057","2022","2022",15,1513301,1.0,0.6,1.6
+,"Hillsborough County, FL","12057","2023","2023",16,1535564,1.0,0.6,1.7
+,"Hillsborough County, FL","12057","2024 ","2024",12,1581426,0.8,0.4,1.3
+,"Orange County, FL","12095","2018","2018",12,1380645,0.9,0.4,1.5
+,"Orange County, FL","12095","2022","2022",10,1452726,0.7,0.3,1.3
+,"Orange County, FL","12095","2023","2023",13,1471416,0.9,0.5,1.5
+,"Palm Beach County, FL","12099","2020","2020",12,1507600,0.8,0.4,1.4
+,"Palm Beach County, FL","12099","2021","2021",14,1497987,0.9,0.5,1.6
+,"Palm Beach County, FL","12099","2022","2022",12,1518477,0.8,0.4,1.4
+,"Pinellas County, FL","12103","2018","2018",14,975280,1.4,0.8,2.4
+,"Volusia County, FL","12127","2021","2021",10,564412,1.8,0.8,3.3
+,"Volusia County, FL","12127","2024 ","2024",10,602772,1.7,0.8,3.1
+,"Cobb County, GA","13067","2021","2021",10,766802,1.3,0.6,2.4
+,"Fulton County, GA","13121","2022","2022",10,1074634,0.9,0.4,1.7
+,"Cook County, IL","17031","2018","2018",79,5180493,1.5,1.2,1.9
+,"Cook County, IL","17031","2019","2019",91,5150233,1.8,1.4,2.2
+,"Cook County, IL","17031","2020","2020",157,5108284,3.1,2.6,3.6
+,"Cook County, IL","17031","2021","2021",111,5173146,2.1,1.7,2.5
+,"Cook County, IL","17031","2022","2022",106,5109292,2.1,1.7,2.5
+,"Cook County, IL","17031","2023","2023",99,5087072,1.9,1.6,2.4
+,"Cook County, IL","17031","2024 ","2024",82,5182617,1.6,1.3,2.0
+,"Lake County, IN","18089","2018","2018",10,484411,2.1,1.0,3.8
+,"Lake County, IN","18089","2019","2019",15,485493,3.1,1.7,5.1
+,"Marion County, IN","18097","2020","2020",11,966183,1.1,0.6,2.0
+,"Marion County, IN","18097","2021","2021",13,971102,1.3,0.7,2.3
+,"Marion County, IN","18097","2022","2022",15,969466,1.5,0.9,2.6
+,"Marion County, IN","18097","2023","2023",12,968460,1.2,0.6,2.2
+,"Marion County, IN","18097","2024 ","2024",17,981628,1.7,1.0,2.8
+,"Sedgwick County, KS","20173","2019","2019",11,516042,2.1,1.1,3.8
+,"Sedgwick County, KS","20173","2023","2023",10,528469,1.9,0.9,3.5
+,"Jefferson County, KY","21111","2023","2023",10,772144,1.3,0.6,2.4
+,"Jefferson Parish, LA","22051","2021","2021",11,433688,2.5,1.3,4.5
+,"Anne Arundel County, MD","24003","2018","2018",11,576031,1.9,1.0,3.4
+,"Anne Arundel County, MD","24003","2019","2019",14,579234,2.4,1.3,4.1
+,"Anne Arundel County, MD","24003","2020","2020",16,582777,2.7,1.6,4.5
+,"Anne Arundel County, MD","24003","2021","2021",25,590336,4.2,2.7,6.3
+,"Anne Arundel County, MD","24003","2022","2022",17,593286,2.9,1.7,4.6
+,"Anne Arundel County, MD","24003","2023","2023",16,594582,2.7,1.5,4.4
+,"Anne Arundel County, MD","24003","2024 ","2024",19,602350,3.2,1.9,4.9
+,"Baltimore County, MD","24005","2018","2018",42,828431,5.1,3.7,6.9
+,"Baltimore County, MD","24005","2019","2019",39,827370,4.7,3.4,6.4
+,"Baltimore County, MD","24005","2020","2020",48,826017,5.8,4.3,7.7
+,"Baltimore County, MD","24005","2021","2021",47,849316,5.5,4.1,7.4
+,"Baltimore County, MD","24005","2022","2022",33,846161,3.9,2.7,5.5
+,"Baltimore County, MD","24005","2023","2023",31,844703,3.7,2.5,5.2
+,"Baltimore County, MD","24005","2024 ","2024",34,852425,4.0,2.8,5.6
+,"Carroll County, MD","24013","2021","2021",12,173873,6.9,3.6,12.1
+,"Cecil County, MD","24015","2022","2022",11,104942,10.5,5.2,18.8
+,"Harford County, MD","24025","2018","2018",13,253956,5.1,2.7,8.8
+,"Harford County, MD","24025","2019","2019",10,255441,3.9,1.9,7.2
+,"Harford County, MD","24025","2020","2020",15,256805,5.8,3.3,9.6
+,"Harford County, MD","24025","2021","2021",13,262977,4.9,2.6,8.5
+,"Harford County, MD","24025","2022","2022",18,263867,6.8,4.0,10.8
+,"Harford County, MD","24025","2023","2023",15,264644,5.7,3.2,9.3
+,"Washington County, MD","24043","2020","2020",10,151146,6.6,3.2,12.2
+,"Washington County, MD","24043","2024 ","2024",13,157228,8.3,4.4,14.1
+,"Baltimore city, MD","24510","2018","2018",73,602495,12.1,9.5,15.2
+,"Baltimore city, MD","24510","2019","2019",75,593490,12.6,9.9,15.8
+,"Baltimore city, MD","24510","2020","2020",111,586131,18.9,15.4,22.5
+,"Baltimore city, MD","24510","2021","2021",123,576498,21.3,17.6,25.1
+,"Baltimore city, MD","24510","2022","2022",95,569931,16.7,13.5,20.4
+,"Baltimore city, MD","24510","2023","2023",82,565239,14.5,11.5,18.0
+,"Baltimore city, MD","24510","2024 ","2024",104,568271,18.3,14.8,21.8
+,"Bristol County, MA","25005","2018","2018",11,564022,2.0,1.0,3.5
+,"Bristol County, MA","25005","2019","2019",11,565217,1.9,1.0,3.5
+,"Bristol County, MA","25005","2021","2021",23,580164,4.0,2.5,5.9
+,"Bristol County, MA","25005","2022","2022",17,580068,2.9,1.7,4.7
+,"Bristol County, MA","25005","2023","2023",26,581841,4.5,2.9,6.5
+,"Bristol County, MA","25005","2024 ","2024",20,588593,3.4,2.1,5.2
+,"Essex County, MA","25009","2018","2018",11,790638,1.4,0.7,2.5
+,"Essex County, MA","25009","2020","2020",21,791263,2.7,1.6,4.1
+,"Essex County, MA","25009","2021","2021",18,807074,2.2,1.3,3.5
+,"Essex County, MA","25009","2022","2022",10,806765,1.2,0.6,2.3
+,"Essex County, MA","25009","2023","2023",16,810089,2.0,1.1,3.2
+,"Essex County, MA","25009","2024 ","2024",19,823938,2.3,1.4,3.6
+,"Hampden County, MA","25013","2022","2022",15,461041,3.3,1.8,5.4
+,"Hampden County, MA","25013","2023","2023",14,460291,3.0,1.7,5.1
+,"Hampden County, MA","25013","2024 ","2024",15,464151,3.2,1.8,5.3
+,"Middlesex County, MA","25017","2018","2018",13,1614714,0.8,0.4,1.4
+,"Middlesex County, MA","25017","2019","2019",10,1611699,0.6,0.3,1.1
+,"Middlesex County, MA","25017","2020","2020",14,1609379,0.9,0.5,1.5
+,"Middlesex County, MA","25017","2021","2021",24,1614742,1.5,1.0,2.2
+,"Middlesex County, MA","25017","2022","2022",28,1617105,1.7,1.2,2.5
+,"Middlesex County, MA","25017","2023","2023",19,1623952,1.2,0.7,1.8
+,"Middlesex County, MA","25017","2024 ","2024",21,1668956,1.3,0.8,1.9
+,"Norfolk County, MA","25021","2023","2023",17,727473,2.3,1.4,3.7
+,"Plymouth County, MA","25023","2022","2022",14,533069,2.6,1.4,4.4
+,"Plymouth County, MA","25023","2023","2023",12,535308,2.2,1.2,3.9
+,"Suffolk County, MA","25025","2018","2018",15,807252,1.9,1.0,3.1
+,"Suffolk County, MA","25025","2020","2020",20,801582,2.5,1.5,3.9
+,"Suffolk County, MA","25025","2022","2022",22,766381,2.9,1.8,4.3
+,"Suffolk County, MA","25025","2023","2023",22,768425,2.9,1.8,4.3
+,"Suffolk County, MA","25025","2024 ","2024",21,793144,2.6,1.6,4.0
+,"Worcester County, MA","25027","2018","2018",11,830839,1.3,0.7,2.4
+,"Worcester County, MA","25027","2020","2020",10,829212,1.2,0.6,2.2
+,"Worcester County, MA","25027","2021","2021",11,862029,1.3,0.6,2.3
+,"Worcester County, MA","25027","2022","2022",16,862927,1.9,1.1,3.0
+,"Worcester County, MA","25027","2023","2023",19,866866,2.2,1.3,3.4
+,"Worcester County, MA","25027","2024 ","2024",12,881248,1.4,0.7,2.4
+,"Genesee County, MI","26049","2018","2018",11,406892,2.7,1.3,4.8
+,"Genesee County, MI","26049","2020","2020",13,404794,3.2,1.7,5.5
+,"Genesee County, MI","26049","2024 ","2024",10,402279,2.5,1.2,4.6
+,"Ingham County, MI","26065","2019","2019",10,292406,3.4,1.6,6.3
+,"Kent County, MI","26081","2018","2018",11,653786,1.7,0.8,3.0
+,"Macomb County, MI","26099","2018","2018",13,874759,1.5,0.8,2.5
+,"Macomb County, MI","26099","2020","2020",13,870791,1.5,0.8,2.6
+,"Macomb County, MI","26099","2021","2021",16,876792,1.8,1.0,3.0
+,"Macomb County, MI","26099","2023","2023",10,875101,1.1,0.5,2.1
+,"Oakland County, MI","26125","2021","2021",12,1270017,0.9,0.5,1.7
+,"Wayne County, MI","26163","2018","2018",33,1753893,1.9,1.3,2.6
+,"Wayne County, MI","26163","2019","2019",25,1749343,1.4,0.9,2.1
+,"Wayne County, MI","26163","2020","2020",18,1740623,1.0,0.6,1.6
+,"Wayne County, MI","26163","2021","2021",30,1774816,1.7,1.1,2.4
+,"Wayne County, MI","26163","2022","2022",15,1757043,0.9,0.5,1.4
+,"Wayne County, MI","26163","2023","2023",13,1751169,0.7,0.4,1.3
+,"Wayne County, MI","26163","2024 ","2024",10,1771063,0.6,0.3,1.0
+,"Hennepin County, MN","27053","2018","2018",19,1259428,1.5,0.9,2.4
+,"Hennepin County, MN","27053","2019","2019",21,1265843,1.7,1.0,2.5
+,"Hennepin County, MN","27053","2020","2020",30,1268408,2.4,1.6,3.4
+,"Hennepin County, MN","27053","2021","2021",21,1267416,1.7,1.0,2.5
+,"Hennepin County, MN","27053","2022","2022",21,1260121,1.7,1.0,2.5
+,"Hennepin County, MN","27053","2023","2023",16,1258713,1.3,0.7,2.1
+,"Hennepin County, MN","27053","2024 ","2024",20,1273334,1.6,1.0,2.4
+,"Clark County, NV","32003","2018","2018",24,2231647,1.1,0.7,1.6
+,"Clark County, NV","32003","2019","2019",20,2266715,0.9,0.5,1.4
+,"Clark County, NV","32003","2020","2020",17,2315963,0.7,0.4,1.2
+,"Clark County, NV","32003","2021","2021",11,2292476,0.5,0.2,0.9
+,"Clark County, NV","32003","2022","2022",14,2322985,0.6,0.3,1.0
+,"Clark County, NV","32003","2023","2023",25,2336573,1.1,0.7,1.6
+,"Clark County, NV","32003","2024 ","2024",20,2398871,0.8,0.5,1.3
+,"Washoe County, NV","32031","2021","2021",10,493392,2.0,1.0,3.7
+,"Washoe County, NV","32031","2024 ","2024",10,507280,2.0,0.9,3.6
+,"Atlantic County, NJ","34001","2019","2019",10,263670,3.8,1.8,7.0
+,"Atlantic County, NJ","34001","2020","2020",14,262945,5.3,2.9,8.9
+,"Atlantic County, NJ","34001","2024 ","2024",10,279114,3.6,1.7,6.6
+,"Camden County, NJ","34007","2019","2019",10,506471,2.0,0.9,3.6
+,"Camden County, NJ","34007","2020","2020",14,506809,2.8,1.5,4.6
+,"Camden County, NJ","34007","2021","2021",13,523771,2.5,1.3,4.2
+,"Camden County, NJ","34007","2023","2023",10,527196,1.9,0.9,3.5
+,"Camden County, NJ","34007","2024 ","2024",11,533988,2.1,1.0,3.7
+,"Essex County, NJ","34013","2018","2018",12,799767,1.5,0.8,2.6
+,"Essex County, NJ","34013","2019","2019",13,798975,1.6,0.9,2.8
+,"Essex County, NJ","34013","2020","2020",13,800501,1.6,0.9,2.8
+,"Essex County, NJ","34013","2021","2021",16,854917,1.9,1.1,3.0
+,"Essex County, NJ","34013","2022","2022",21,849477,2.5,1.5,3.8
+,"Essex County, NJ","34013","2023","2023",15,851117,1.8,1.0,2.9
+,"Essex County, NJ","34013","2024 ","2024",13,881527,1.5,0.8,2.5
+,"Hudson County, NJ","34017","2023","2023",11,705472,1.6,0.8,2.8
+,"Middlesex County, NJ","34023","2018","2018",10,829685,1.2,0.6,2.2
+,"Middlesex County, NJ","34023","2021","2021",17,860807,2.0,1.2,3.2
+,"Middlesex County, NJ","34023","2022","2022",13,861418,1.5,0.8,2.6
+,"Middlesex County, NJ","34023","2023","2023",10,863623,1.2,0.6,2.1
+,"Monmouth County, NJ","34025","2018","2018",18,621354,2.9,1.7,4.6
+,"Monmouth County, NJ","34025","2019","2019",16,618795,2.6,1.5,4.2
+,"Monmouth County, NJ","34025","2020","2020",10,618381,1.6,0.8,3.0
+,"Monmouth County, NJ","34025","2021","2021",24,645354,3.7,2.4,5.5
+,"Monmouth County, NJ","34025","2024 ","2024",10,647520,1.5,0.7,2.8
+,"Ocean County, NJ","34029","2018","2018",18,601651,3.0,1.8,4.7
+,"Ocean County, NJ","34029","2020","2020",10,614237,1.6,0.8,3.0
+,"Union County, NJ","34039","2020","2020",12,555394,2.2,1.1,3.8
+,"Bernalillo County, NM","35001","2018","2018",23,678701,3.4,2.1,5.1
+,"Bernalillo County, NM","35001","2019","2019",32,679121,4.7,3.2,6.7
+,"Bernalillo County, NM","35001","2020","2020",37,681666,5.4,3.8,7.5
+,"Bernalillo County, NM","35001","2021","2021",32,674393,4.7,3.2,6.7
+,"Bernalillo County, NM","35001","2022","2022",26,672508,3.9,2.5,5.7
+,"Bernalillo County, NM","35001","2023","2023",30,671586,4.5,3.0,6.4
+,"Bernalillo County, NM","35001","2024 ","2024",38,671747,5.7,4.0,7.8
+,"Santa Fe County, NM","35049","2021","2021",10,155201,6.4,3.1,11.8
+,"Bronx County, NY","36005","2018","2018",58,1432132,4.0,3.1,5.2
+,"Bronx County, NY","36005","2019","2019",69,1418207,4.9,3.8,6.2
+,"Bronx County, NY","36005","2020","2020",104,1401142,7.4,6.0,8.8
+,"Bronx County, NY","36005","2021","2021",134,1424948,9.4,7.8,11.0
+,"Bronx County, NY","36005","2022","2022",120,1379946,8.7,7.1,10.3
+,"Bronx County, NY","36005","2023","2023",124,1356476,9.1,7.5,10.8
+,"Bronx County, NY","36005","2024 ","2024",93,1384724,6.7,5.4,8.2
+,"Erie County, NY","36029","2019","2019",19,918702,2.1,1.2,3.2
+,"Erie County, NY","36029","2020","2020",28,917241,3.1,2.0,4.4
+,"Erie County, NY","36029","2021","2021",28,950683,2.9,2.0,4.3
+,"Erie County, NY","36029","2022","2022",18,950312,1.9,1.1,3.0
+,"Erie County, NY","36029","2023","2023",22,946147,2.3,1.5,3.5
+,"Erie County, NY","36029","2024 ","2024",24,950602,2.5,1.6,3.8
+,"Kings County, NY","36047","2018","2018",44,2582830,1.7,1.2,2.3
+,"Kings County, NY","36047","2019","2019",38,2559903,1.5,1.1,2.0
+,"Kings County, NY","36047","2020","2020",70,2538934,2.8,2.1,3.5
+,"Kings County, NY","36047","2021","2021",69,2641052,2.6,2.0,3.3
+,"Kings County, NY","36047","2022","2022",101,2590516,3.9,3.1,4.7
+,"Kings County, NY","36047","2023","2023",85,2561225,3.3,2.7,4.1
+,"Kings County, NY","36047","2024 ","2024",58,2617631,2.2,1.7,2.9
+,"Monroe County, NY","36055","2018","2018",10,742474,1.3,0.6,2.5
+,"Monroe County, NY","36055","2020","2020",17,740900,2.3,1.3,3.7
+,"Monroe County, NY","36055","2024 ","2024",12,752202,1.6,0.8,2.8
+,"Nassau County, NY","36059","2019","2019",24,1356924,1.8,1.1,2.6
+,"Nassau County, NY","36059","2020","2020",14,1351334,1.0,0.6,1.7
+,"Nassau County, NY","36059","2021","2021",14,1390907,1.0,0.6,1.7
+,"Nassau County, NY","36059","2022","2022",12,1383726,0.9,0.4,1.5
+,"Nassau County, NY","36059","2023","2023",13,1381715,0.9,0.5,1.6
+,"Nassau County, NY","36059","2024 ","2024",16,1392438,1.1,0.7,1.9
+,"New York County, NY","36061","2018","2018",29,1628701,1.8,1.2,2.6
+,"New York County, NY","36061","2019","2019",35,1628706,2.1,1.5,3.0
+,"New York County, NY","36061","2020","2020",44,1611989,2.7,2.0,3.7
+,"New York County, NY","36061","2021","2021",59,1576876,3.7,2.8,4.8
+,"New York County, NY","36061","2022","2022",43,1596273,2.7,1.9,3.6
+,"New York County, NY","36061","2023","2023",59,1597451,3.7,2.8,4.8
+,"New York County, NY","36061","2024 ","2024",35,1660664,2.1,1.5,2.9
+,"Onondaga County, NY","36067","2020","2020",10,459214,2.2,1.0,4.0
+,"Queens County, NY","36081","2018","2018",20,2278906,0.9,0.5,1.4
+,"Queens County, NY","36081","2019","2019",16,2253858,0.7,0.4,1.2
+,"Queens County, NY","36081","2020","2020",34,2225821,1.5,1.1,2.1
+,"Queens County, NY","36081","2021","2021",31,2331143,1.3,0.9,1.9
+,"Queens County, NY","36081","2022","2022",33,2278029,1.4,1.0,2.0
+,"Queens County, NY","36081","2023","2023",37,2252196,1.6,1.2,2.3
+,"Queens County, NY","36081","2024 ","2024",25,2316841,1.1,0.7,1.6
+,"Richmond County, NY","36085","2020","2020",13,475327,2.7,1.5,4.7
+,"Richmond County, NY","36085","2021","2021",19,493494,3.9,2.3,6.0
+,"Richmond County, NY","36085","2022","2022",11,491133,2.2,1.1,4.0
+,"Richmond County, NY","36085","2023","2023",22,490687,4.5,2.8,6.8
+,"Suffolk County, NY","36103","2018","2018",13,1481093,0.9,0.5,1.5
+,"Suffolk County, NY","36103","2019","2019",13,1476601,0.9,0.5,1.5
+,"Suffolk County, NY","36103","2020","2020",18,1474273,1.2,0.7,1.9
+,"Suffolk County, NY","36103","2021","2021",29,1526344,1.9,1.3,2.7
+,"Suffolk County, NY","36103","2022","2022",31,1525465,2.0,1.4,2.9
+,"Suffolk County, NY","36103","2023","2023",21,1523170,1.4,0.9,2.1
+,"Suffolk County, NY","36103","2024 ","2024",25,1535909,1.6,1.1,2.4
+,"Westchester County, NY","36119","2018","2018",10,967612,1.0,0.5,1.9
+,"Westchester County, NY","36119","2020","2020",10,965802,1.0,0.5,1.9
+,"Westchester County, NY","36119","2021","2021",13,997895,1.3,0.7,2.2
+,"Westchester County, NY","36119","2022","2022",14,990427,1.4,0.8,2.4
+,"Cuyahoga County, OH","39035","2021","2021",10,1249387,0.8,0.4,1.5
+,"Cuyahoga County, OH","39035","2023","2023",12,1233088,1.0,0.5,1.7
+,"Franklin County, OH","39049","2018","2018",13,1310300,1.0,0.5,1.7
+,"Franklin County, OH","39049","2019","2019",13,1316756,1.0,0.5,1.7
+,"Franklin County, OH","39049","2020","2020",13,1324624,1.0,0.5,1.7
+,"Franklin County, OH","39049","2021","2021",20,1321414,1.5,0.9,2.3
+,"Franklin County, OH","39049","2022","2022",22,1321820,1.7,1.0,2.5
+,"Franklin County, OH","39049","2023","2023",19,1326063,1.4,0.9,2.2
+,"Franklin County, OH","39049","2024 ","2024",19,1356303,1.4,0.8,2.2
+,"Hamilton County, OH","39061","2020","2020",12,817985,1.5,0.8,2.6
+,"Hamilton County, OH","39061","2021","2021",12,826139,1.5,0.8,2.5
+,"Hamilton County, OH","39061","2022","2022",12,825037,1.5,0.8,2.5
+,"Hamilton County, OH","39061","2023","2023",10,827058,1.2,0.6,2.2
+,"Hamilton County, OH","39061","2024 ","2024",14,837359,1.7,0.9,2.8
+,"Montgomery County, OH","39113","2019","2019",11,531687,2.1,1.0,3.7
+,"Montgomery County, OH","39113","2021","2021",10,535840,1.9,0.9,3.4
+,"Tulsa County, OK","40143","2020","2020",10,657589,1.5,0.7,2.8
+,"Tulsa County, OK","40143","2024 ","2024",10,693514,1.4,0.7,2.7
+,"Multnomah County, OR","41051","2018","2018",17,811880,2.1,1.2,3.4
+,"Multnomah County, OR","41051","2019","2019",16,812855,2.0,1.1,3.2
+,"Multnomah County, OR","41051","2020","2020",22,815637,2.7,1.7,4.1
+,"Multnomah County, OR","41051","2021","2021",20,803377,2.5,1.5,3.8
+,"Multnomah County, OR","41051","2022","2022",12,795083,1.5,0.8,2.6
+,"Multnomah County, OR","41051","2023","2023",13,789698,1.6,0.9,2.8
+,"Multnomah County, OR","41051","2024 ","2024",30,795897,3.8,2.5,5.4
+,"Allegheny County, PA","42003","2018","2018",25,1218452,2.1,1.3,3.0
+,"Allegheny County, PA","42003","2019","2019",31,1216045,2.5,1.7,3.6
+,"Allegheny County, PA","42003","2020","2020",27,1211358,2.2,1.5,3.2
+,"Allegheny County, PA","42003","2021","2021",37,1238090,3.0,2.1,4.1
+,"Allegheny County, PA","42003","2022","2022",35,1233253,2.8,2.0,3.9
+,"Allegheny County, PA","42003","2023","2023",45,1224825,3.7,2.7,4.9
+,"Allegheny County, PA","42003","2024 ","2024",28,1231814,2.3,1.5,3.3
+,"Bucks County, PA","42017","2021","2021",11,646098,1.7,0.8,3.0
+,"Lawrence County, PA","42073","2023","2023",10,84472,11.8,5.7,21.8
+,"Montgomery County, PA","42091","2019","2019",10,830915,1.2,0.6,2.2
+,"Philadelphia County, PA","42101","2018","2018",47,1584138,3.0,2.2,3.9
+,"Philadelphia County, PA","42101","2019","2019",40,1584064,2.5,1.8,3.4
+,"Philadelphia County, PA","42101","2020","2020",44,1578487,2.8,2.0,3.7
+,"Philadelphia County, PA","42101","2021","2021",51,1576251,3.2,2.4,4.3
+,"Philadelphia County, PA","42101","2022","2022",37,1567258,2.4,1.7,3.3
+,"Philadelphia County, PA","42101","2023","2023",47,1550542,3.0,2.2,4.0
+,"Philadelphia County, PA","42101","2024 ","2024",61,1573916,3.9,3.0,5.0
+,"Providence County, RI","44007","2018","2018",19,636084,3.0,1.8,4.7
+,"Providence County, RI","44007","2019","2019",15,638931,2.3,1.3,3.9
+,"Providence County, RI","44007","2020","2020",33,636547,5.2,3.6,7.3
+,"Providence County, RI","44007","2021","2021",30,658221,4.6,3.1,6.5
+,"Providence County, RI","44007","2022","2022",21,657288,3.2,2.0,4.9
+,"Providence County, RI","44007","2023","2023",25,660615,3.8,2.4,5.6
+,"Providence County, RI","44007","2024 ","2024",24,675912,3.6,2.3,5.3
+,"Hamilton County, TN","47065","2019","2019",11,367804,3.0,1.5,5.4
+,"Knox County, TN","47093","2018","2018",15,465289,3.2,1.8,5.3
+,"Knox County, TN","47093","2020","2020",11,475609,2.3,1.2,4.1
+,"Knox County, TN","47093","2021","2021",11,486677,2.3,1.1,4.0
+,"Knox County, TN","47093","2022","2022",14,494574,2.8,1.5,4.7
+,"Knox County, TN","47093","2023","2023",12,500669,2.4,1.2,4.2
+,"Knox County, TN","47093","2024 ","2024",10,506748,2.0,0.9,3.6
+,"Shelby County, TN","47157","2021","2021",16,924454,1.7,1.0,2.8
+,"Bexar County, TX","48029","2018","2018",14,1986049,0.7,0.4,1.2
+,"Bexar County, TX","48029","2019","2019",11,2003554,0.5,0.3,1.0
+,"Bexar County, TX","48029","2020","2020",19,2026823,0.9,0.6,1.5
+,"Bexar County, TX","48029","2021","2021",11,2028236,0.5,0.3,1.0
+,"Bexar County, TX","48029","2022","2022",16,2059530,0.8,0.4,1.3
+,"Bexar County, TX","48029","2023","2023",15,2087679,0.7,0.4,1.2
+,"Bexar County, TX","48029","2024 ","2024",12,2127737,0.6,0.3,1.0
+,"Dallas County, TX","48113","2021","2021",14,2586050,0.5,0.3,0.9
+,"Harris County, TX","48201","2018","2018",18,4698619,0.4,0.2,0.6
+,"Harris County, TX","48201","2019","2019",18,4713325,0.4,0.2,0.6
+,"Harris County, TX","48201","2020","2020",23,4738253,0.5,0.3,0.7
+,"Harris County, TX","48201","2021","2021",28,4728030,0.6,0.4,0.9
+,"Harris County, TX","48201","2022","2022",19,4780913,0.4,0.2,0.6
+,"Harris County, TX","48201","2023","2023",15,4835125,0.3,0.2,0.5
+,"Harris County, TX","48201","2024 ","2024",20,5009302,0.4,0.2,0.6
+,"Tarrant County, TX","48439","2020","2020",10,2123347,0.5,0.2,0.9
+,"Tarrant County, TX","48439","2022","2022",13,2154595,0.6,0.3,1.0
+,"Tarrant County, TX","48439","2023","2023",16,2182947,0.7,0.4,1.2
+,"Travis County, TX","48453","2019","2019",10,1273954,0.8,0.4,1.4
+,"Travis County, TX","48453","2022","2022",15,1326436,1.1,0.6,1.9
+,"Salt Lake County, UT","49035","2018","2018",22,1152633,1.9,1.2,2.9
+,"Salt Lake County, UT","49035","2021","2021",19,1186421,1.6,1.0,2.5
+,"Salt Lake County, UT","49035","2024 ","2024",15,1216274,1.2,0.7,2.0
+,"Henrico County, VA","51087","2021","2021",12,333554,3.6,1.9,6.3
+,"King County, WA","53033","2018","2018",40,2233163,1.8,1.3,2.4
+,"King County, WA","53033","2019","2019",38,2252782,1.7,1.2,2.3
+,"King County, WA","53033","2020","2020",50,2274315,2.2,1.6,2.9
+,"King County, WA","53033","2021","2021",49,2252305,2.2,1.6,2.9
+,"King County, WA","53033","2022","2022",43,2266789,1.9,1.4,2.6
+,"King County, WA","53033","2023","2023",68,2271380,3.0,2.3,3.8
+,"King County, WA","53033","2024 ","2024",55,2340211,2.4,1.8,3.1
+,"Pierce County, WA","53053","2018","2018",14,891299,1.6,0.9,2.6
+,"Pierce County, WA","53053","2020","2020",12,913890,1.3,0.7,2.3
+,"Pierce County, WA","53053","2021","2021",17,925708,1.8,1.1,2.9
+,"Pierce County, WA","53053","2023","2023",18,928696,1.9,1.1,3.1
+,"Pierce County, WA","53053","2024 ","2024",14,941170,1.5,0.8,2.5
+,"Snohomish County, WA","53061","2018","2018",18,814901,2.2,1.3,3.5
+,"Snohomish County, WA","53061","2019","2019",13,822083,1.6,0.8,2.7
+,"Snohomish County, WA","53061","2020","2020",16,830393,1.9,1.1,3.1
+,"Snohomish County, WA","53061","2021","2021",14,833540,1.7,0.9,2.8
+,"Snohomish County, WA","53061","2022","2022",12,840079,1.4,0.7,2.5
+,"Snohomish County, WA","53061","2024 ","2024",18,864113,2.1,1.2,3.3
+,"Spokane County, WA","53063","2023","2023",12,551455,2.2,1.1,3.8
+,"Spokane County, WA","53063","2024 ","2024",17,555947,3.1,1.8,4.9
+,"Berkeley County, WV","54003","2020","2020",10,122125,8.2,3.9,15.1
+,"Cabell County, WV","54011","2024 ","2024",13,91489,14.2,7.6,24.3
+,"Dane County, WI","55025","2020","2020",11,552536,2.0,1.0,3.6
+,"Dane County, WI","55025","2021","2021",11,563951,2.0,1.0,3.5
+,"Milwaukee County, WI","55079","2018","2018",13,948201,1.4,0.7,2.3
+,"Milwaukee County, WI","55079","2019","2019",11,945726,1.2,0.6,2.1
+,"Milwaukee County, WI","55079","2020","2020",26,945016,2.8,1.8,4.0
+,"Milwaukee County, WI","55079","2021","2021",28,928059,3.0,2.0,4.4
+,"Milwaukee County, WI","55079","2022","2022",26,918661,2.8,1.8,4.1
+,"Milwaukee County, WI","55079","2023","2023",14,916205,1.5,0.8,2.6
+,"Milwaukee County, WI","55079","2024 ","2024",15,924740,1.6,0.9,2.7
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.3 (Methadone)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); Y10 (Poisoning by and"
+"exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent); Y11 (Poisoning by and exposure to"
+"antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent); Y12"
+"(Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent);"
+"Y13 (Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent); Y14 (Poisoning by"
+"and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent)"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Feb 18, 2026 10:50:33 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Feb 18, 2026 10:50:33 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"2. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"3. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"6. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for year 2021 are single-race estimates of the July 1 resident population, based on the Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series"
+"released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the July 1"
+"resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on July"
+"27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the Vintage"
+"2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population figures for"
+"year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based on April"
+"2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."

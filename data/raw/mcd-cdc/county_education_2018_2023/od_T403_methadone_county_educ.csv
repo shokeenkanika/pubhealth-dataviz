@@ -1,0 +1,427 @@
+"Notes","County","County Code","Education","Education Code","Year","Year Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval
+,"Jefferson County, AL","01073","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","9th through 12th grade with no diploma","2","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","9th through 12th grade with no diploma","2","2024 ","2024",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","High school graduate or GED completed","3","2021","2021",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","High school graduate or GED completed","3","2022","2022",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","High school graduate or GED completed","3","2023","2023",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","High school graduate or GED completed","3","2024 ","2024",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","Some college credit, but not a degree.","4","2022","2022",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","Some college credit, but not a degree.","4","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","Not Available","10","2018","2018",42,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","Not Available","10","2019","2019",49,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Maricopa County, AZ","04013","Not Available","10","2020","2020",51,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pima County, AZ","04019","High school graduate or GED completed","3","2024 ","2024",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pima County, AZ","04019","Not Available","10","2018","2018",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pima County, AZ","04019","Not Available","10","2019","2019",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pima County, AZ","04019","Not Available","10","2020","2020",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Alameda County, CA","06001","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Contra Costa County, CA","06013","Not Available","10","2018","2018",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fresno County, CA","06019","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kern County, CA","06029","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kern County, CA","06029","Not Available","10","2019","2019",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kern County, CA","06029","Not Available","10","2020","2020",22,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Los Angeles County, CA","06037","High school graduate or GED completed","3","2021","2021",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Los Angeles County, CA","06037","Not Available","10","2018","2018",36,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Los Angeles County, CA","06037","Not Available","10","2019","2019",30,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Los Angeles County, CA","06037","Not Available","10","2020","2020",44,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, CA","06059","High school graduate or GED completed","3","2021","2021",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, CA","06059","High school graduate or GED completed","3","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, CA","06059","Not Available","10","2018","2018",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, CA","06059","Not Available","10","2019","2019",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, CA","06059","Not Available","10","2020","2020",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Riverside County, CA","06065","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sacramento County, CA","06067","High school graduate or GED completed","3","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sacramento County, CA","06067","Not Available","10","2019","2019",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sacramento County, CA","06067","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Diego County, CA","06073","High school graduate or GED completed","3","2021","2021",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Diego County, CA","06073","Not Available","10","2018","2018",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Diego County, CA","06073","Not Available","10","2019","2019",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Diego County, CA","06073","Not Available","10","2020","2020",26,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Francisco County, CA","06075","High school graduate or GED completed","3","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Francisco County, CA","06075","Unknown or Not Stated","9","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Francisco County, CA","06075","Not Available","10","2018","2018",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Francisco County, CA","06075","Not Available","10","2019","2019",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Francisco County, CA","06075","Not Available","10","2020","2020",27,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"San Joaquin County, CA","06077","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ventura County, CA","06111","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Denver County, CO","08031","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Denver County, CO","08031","Not Available","10","2020","2020",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"El Paso County, CO","08041","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Jefferson County, CO","08059","Not Available","10","2018","2018",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","High school graduate or GED completed","3","2021","2021",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","High school graduate or GED completed","3","2022","2022",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","High school graduate or GED completed","3","2023","2023",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","High school graduate or GED completed","3","2024 ","2024",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","Not Available","10","2018","2018",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","Not Available","10","2019","2019",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Fairfield County, CT","09001","Not Available","10","2020","2020",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","High school graduate or GED completed","3","2021","2021",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","High school graduate or GED completed","3","2022","2022",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","High school graduate or GED completed","3","2023","2023",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","High school graduate or GED completed","3","2024 ","2024",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","Not Available","10","2018","2018",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hartford County, CT","09003","Not Available","10","2020","2020",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","High school graduate or GED completed","3","2021","2021",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","High school graduate or GED completed","3","2022","2022",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","High school graduate or GED completed","3","2023","2023",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","High school graduate or GED completed","3","2024 ","2024",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","Not Available","10","2018","2018",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","Not Available","10","2019","2019",39,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Haven County, CT","09009","Not Available","10","2020","2020",34,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New London County, CT","09011","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","High school graduate or GED completed","3","2021","2021",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","High school graduate or GED completed","3","2023","2023",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","Not Available","10","2018","2018",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","Not Available","10","2019","2019",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New Castle County, DE","10003","Not Available","10","2020","2020",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sussex County, DE","10005","Not Available","10","2020","2020",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","High school graduate or GED completed","3","2021","2021",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","High school graduate or GED completed","3","2022","2022",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","Not Available","10","2019","2019",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"District of Columbia, DC","11001","Not Available","10","2020","2020",30,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Brevard County, FL","12009","Not Available","10","2018","2018",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Broward County, FL","12011","Not Available","10","2020","2020",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Duval County, FL","12031","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Duval County, FL","12031","Not Available","10","2019","2019",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Duval County, FL","12031","Not Available","10","2020","2020",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hillsborough County, FL","12057","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hillsborough County, FL","12057","Not Available","10","2018","2018",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hillsborough County, FL","12057","Not Available","10","2019","2019",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hillsborough County, FL","12057","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Orange County, FL","12095","Not Available","10","2018","2018",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Palm Beach County, FL","12099","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pinellas County, FL","12103","Not Available","10","2018","2018",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","9th through 12th grade with no diploma","2","2021","2021",22,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","9th through 12th grade with no diploma","2","2022","2022",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","9th through 12th grade with no diploma","2","2023","2023",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","9th through 12th grade with no diploma","2","2024 ","2024",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","High school graduate or GED completed","3","2021","2021",61,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","High school graduate or GED completed","3","2022","2022",53,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","High school graduate or GED completed","3","2023","2023",56,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","High school graduate or GED completed","3","2024 ","2024",42,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Some college credit, but not a degree.","4","2021","2021",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Some college credit, but not a degree.","4","2022","2022",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Some college credit, but not a degree.","4","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Not Available","10","2018","2018",79,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Not Available","10","2019","2019",91,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Cook County, IL","17031","Not Available","10","2020","2020",157,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lake County, IN","18089","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Lake County, IN","18089","Not Available","10","2019","2019",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Marion County, IN","18097","Not Available","10","2020","2020",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Sedgwick County, KS","20173","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anne Arundel County, MD","24003","High school graduate or GED completed","3","2021","2021",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anne Arundel County, MD","24003","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anne Arundel County, MD","24003","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anne Arundel County, MD","24003","Not Available","10","2019","2019",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Anne Arundel County, MD","24003","Not Available","10","2020","2020",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","High school graduate or GED completed","3","2021","2021",26,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","High school graduate or GED completed","3","2022","2022",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","High school graduate or GED completed","3","2023","2023",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","High school graduate or GED completed","3","2024 ","2024",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","Not Available","10","2018","2018",42,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","Not Available","10","2019","2019",39,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore County, MD","24005","Not Available","10","2020","2020",48,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harford County, MD","24025","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harford County, MD","24025","High school graduate or GED completed","3","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harford County, MD","24025","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harford County, MD","24025","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harford County, MD","24025","Not Available","10","2020","2020",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Washington County, MD","24043","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","9th through 12th grade with no diploma","2","2021","2021",31,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","9th through 12th grade with no diploma","2","2022","2022",29,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","9th through 12th grade with no diploma","2","2023","2023",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","9th through 12th grade with no diploma","2","2024 ","2024",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","High school graduate or GED completed","3","2021","2021",63,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","High school graduate or GED completed","3","2022","2022",42,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","High school graduate or GED completed","3","2023","2023",39,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","High school graduate or GED completed","3","2024 ","2024",50,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","Some college credit, but not a degree.","4","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","Unknown or Not Stated","9","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","Not Available","10","2018","2018",73,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","Not Available","10","2019","2019",75,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Baltimore city, MD","24510","Not Available","10","2020","2020",111,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bristol County, MA","25005","High school graduate or GED completed","3","2021","2021",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bristol County, MA","25005","High school graduate or GED completed","3","2023","2023",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bristol County, MA","25005","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bristol County, MA","25005","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bristol County, MA","25005","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, MA","25009","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, MA","25009","High school graduate or GED completed","3","2023","2023",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, MA","25009","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, MA","25009","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, MA","25009","Not Available","10","2020","2020",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","High school graduate or GED completed","3","2021","2021",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","High school graduate or GED completed","3","2022","2022",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","High school graduate or GED completed","3","2024 ","2024",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, MA","25017","Not Available","10","2020","2020",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Norfolk County, MA","25021","High school graduate or GED completed","3","2023","2023",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, MA","25025","High school graduate or GED completed","3","2022","2022",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, MA","25025","High school graduate or GED completed","3","2023","2023",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, MA","25025","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, MA","25025","Not Available","10","2018","2018",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, MA","25025","Not Available","10","2020","2020",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Worcester County, MA","25027","High school graduate or GED completed","3","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Worcester County, MA","25027","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Worcester County, MA","25027","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Genesee County, MI","26049","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Genesee County, MI","26049","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ingham County, MI","26065","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kent County, MI","26081","Not Available","10","2018","2018",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Macomb County, MI","26099","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Macomb County, MI","26099","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Wayne County, MI","26163","9th through 12th grade with no diploma","2","2021","2021",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Wayne County, MI","26163","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Wayne County, MI","26163","Not Available","10","2018","2018",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Wayne County, MI","26163","Not Available","10","2019","2019",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Wayne County, MI","26163","Not Available","10","2020","2020",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hennepin County, MN","27053","High school graduate or GED completed","3","2021","2021",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hennepin County, MN","27053","High school graduate or GED completed","3","2023","2023",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hennepin County, MN","27053","Not Available","10","2018","2018",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hennepin County, MN","27053","Not Available","10","2019","2019",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hennepin County, MN","27053","Not Available","10","2020","2020",30,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Clark County, NV","32003","Not Available","10","2018","2018",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Clark County, NV","32003","Not Available","10","2019","2019",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Clark County, NV","32003","Not Available","10","2020","2020",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Atlantic County, NJ","34001","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Atlantic County, NJ","34001","Not Available","10","2020","2020",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Camden County, NJ","34007","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Camden County, NJ","34007","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Camden County, NJ","34007","Not Available","10","2020","2020",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","High school graduate or GED completed","3","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","High school graduate or GED completed","3","2023","2023",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","Not Available","10","2018","2018",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","Not Available","10","2019","2019",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Essex County, NJ","34013","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, NJ","34023","High school graduate or GED completed","3","2021","2021",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, NJ","34023","High school graduate or GED completed","3","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Middlesex County, NJ","34023","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monmouth County, NJ","34025","High school graduate or GED completed","3","2021","2021",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monmouth County, NJ","34025","Not Available","10","2018","2018",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monmouth County, NJ","34025","Not Available","10","2019","2019",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monmouth County, NJ","34025","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ocean County, NJ","34029","Not Available","10","2018","2018",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Ocean County, NJ","34029","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Union County, NJ","34039","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","High school graduate or GED completed","3","2021","2021",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","High school graduate or GED completed","3","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","High school graduate or GED completed","3","2023","2023",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","High school graduate or GED completed","3","2024 ","2024",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","Not Available","10","2018","2018",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","Not Available","10","2019","2019",32,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bernalillo County, NM","35001","Not Available","10","2020","2020",37,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","8th grade or less","1","2021","2021",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","8th grade or less","1","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","8th grade or less","1","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","9th through 12th grade with no diploma","2","2021","2021",21,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","9th through 12th grade with no diploma","2","2022","2022",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","9th through 12th grade with no diploma","2","2023","2023",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","9th through 12th grade with no diploma","2","2024 ","2024",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","High school graduate or GED completed","3","2021","2021",60,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","High school graduate or GED completed","3","2022","2022",56,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","High school graduate or GED completed","3","2023","2023",70,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","High school graduate or GED completed","3","2024 ","2024",43,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Some college credit, but not a degree.","4","2021","2021",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Unknown or Not Stated","9","2021","2021",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Unknown or Not Stated","9","2022","2022",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Unknown or Not Stated","9","2023","2023",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Unknown or Not Stated","9","2024 ","2024",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Not Available","10","2018","2018",58,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Not Available","10","2019","2019",69,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bronx County, NY","36005","Not Available","10","2020","2020",104,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Erie County, NY","36029","High school graduate or GED completed","3","2021","2021",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Erie County, NY","36029","High school graduate or GED completed","3","2022","2022",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Erie County, NY","36029","High school graduate or GED completed","3","2024 ","2024",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Erie County, NY","36029","Not Available","10","2019","2019",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Erie County, NY","36029","Not Available","10","2020","2020",28,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","9th through 12th grade with no diploma","2","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","9th through 12th grade with no diploma","2","2023","2023",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","9th through 12th grade with no diploma","2","2024 ","2024",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","High school graduate or GED completed","3","2021","2021",34,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","High school graduate or GED completed","3","2022","2022",59,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","High school graduate or GED completed","3","2023","2023",37,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","High school graduate or GED completed","3","2024 ","2024",27,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","Some college credit, but not a degree.","4","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","Unknown or Not Stated","9","2022","2022",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","Not Available","10","2018","2018",44,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","Not Available","10","2019","2019",38,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Kings County, NY","36047","Not Available","10","2020","2020",70,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monroe County, NY","36055","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Monroe County, NY","36055","Not Available","10","2020","2020",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nassau County, NY","36059","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nassau County, NY","36059","Not Available","10","2019","2019",24,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Nassau County, NY","36059","Not Available","10","2020","2020",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","High school graduate or GED completed","3","2021","2021",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","High school graduate or GED completed","3","2022","2022",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","High school graduate or GED completed","3","2023","2023",31,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","Unknown or Not Stated","9","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","Not Available","10","2018","2018",29,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","Not Available","10","2019","2019",35,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"New York County, NY","36061","Not Available","10","2020","2020",44,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Onondaga County, NY","36067","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","High school graduate or GED completed","3","2021","2021",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","High school graduate or GED completed","3","2022","2022",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","High school graduate or GED completed","3","2023","2023",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","Not Available","10","2018","2018",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","Not Available","10","2019","2019",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Queens County, NY","36081","Not Available","10","2020","2020",34,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Richmond County, NY","36085","High school graduate or GED completed","3","2021","2021",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Richmond County, NY","36085","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","High school graduate or GED completed","3","2021","2021",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","High school graduate or GED completed","3","2022","2022",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","High school graduate or GED completed","3","2024 ","2024",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","Not Available","10","2019","2019",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Suffolk County, NY","36103","Not Available","10","2020","2020",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Westchester County, NY","36119","Not Available","10","2018","2018",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Westchester County, NY","36119","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","High school graduate or GED completed","3","2022","2022",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","Not Available","10","2019","2019",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Franklin County, OH","39049","Not Available","10","2020","2020",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hamilton County, OH","39061","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Montgomery County, OH","39113","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tulsa County, OK","40143","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Multnomah County, OR","41051","High school graduate or GED completed","3","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Multnomah County, OR","41051","High school graduate or GED completed","3","2024 ","2024",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Multnomah County, OR","41051","Not Available","10","2018","2018",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Multnomah County, OR","41051","Not Available","10","2019","2019",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Multnomah County, OR","41051","Not Available","10","2020","2020",22,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","High school graduate or GED completed","3","2021","2021",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","High school graduate or GED completed","3","2022","2022",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","High school graduate or GED completed","3","2023","2023",27,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","High school graduate or GED completed","3","2024 ","2024",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","Not Available","10","2018","2018",25,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","Not Available","10","2019","2019",31,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Allegheny County, PA","42003","Not Available","10","2020","2020",27,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Montgomery County, PA","42091","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","High school graduate or GED completed","3","2021","2021",30,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","High school graduate or GED completed","3","2022","2022",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","High school graduate or GED completed","3","2023","2023",26,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","High school graduate or GED completed","3","2024 ","2024",32,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","Unknown or Not Stated","9","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","Unknown or Not Stated","9","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","Not Available","10","2018","2018",47,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","Not Available","10","2019","2019",40,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Philadelphia County, PA","42101","Not Available","10","2020","2020",44,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","High school graduate or GED completed","3","2021","2021",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","High school graduate or GED completed","3","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","High school graduate or GED completed","3","2023","2023",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","High school graduate or GED completed","3","2024 ","2024",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","Not Available","10","2018","2018",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","Not Available","10","2019","2019",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Providence County, RI","44007","Not Available","10","2020","2020",33,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Hamilton County, TN","47065","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Knox County, TN","47093","Not Available","10","2018","2018",15,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Knox County, TN","47093","Not Available","10","2020","2020",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bexar County, TX","48029","High school graduate or GED completed","3","2022","2022",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bexar County, TX","48029","High school graduate or GED completed","3","2023","2023",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bexar County, TX","48029","Not Available","10","2018","2018",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bexar County, TX","48029","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Bexar County, TX","48029","Not Available","10","2020","2020",19,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harris County, TX","48201","High school graduate or GED completed","3","2021","2021",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harris County, TX","48201","Not Available","10","2018","2018",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harris County, TX","48201","Not Available","10","2019","2019",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Harris County, TX","48201","Not Available","10","2020","2020",23,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Tarrant County, TX","48439","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Travis County, TX","48453","Not Available","10","2019","2019",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Salt Lake County, UT","49035","Not Available","10","2018","2018",22,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","9th through 12th grade with no diploma","2","2021","2021",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","9th through 12th grade with no diploma","2","2022","2022",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","9th through 12th grade with no diploma","2","2023","2023",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","9th through 12th grade with no diploma","2","2024 ","2024",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","High school graduate or GED completed","3","2021","2021",22,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","High school graduate or GED completed","3","2022","2022",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","High school graduate or GED completed","3","2023","2023",26,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","High school graduate or GED completed","3","2024 ","2024",20,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","Some college credit, but not a degree.","4","2023","2023",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","Not Available","10","2018","2018",40,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","Not Available","10","2019","2019",38,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"King County, WA","53033","Not Available","10","2020","2020",50,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pierce County, WA","53053","Not Available","10","2018","2018",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Pierce County, WA","53053","Not Available","10","2020","2020",12,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Snohomish County, WA","53061","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Snohomish County, WA","53061","Not Available","10","2018","2018",18,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Snohomish County, WA","53061","Not Available","10","2019","2019",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Snohomish County, WA","53061","Not Available","10","2020","2020",16,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Spokane County, WA","53063","High school graduate or GED completed","3","2024 ","2024",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Berkeley County, WV","54003","Not Available","10","2020","2020",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Dane County, WI","55025","Not Available","10","2020","2020",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","High school graduate or GED completed","3","2021","2021",17,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","High school graduate or GED completed","3","2022","2022",14,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","High school graduate or GED completed","3","2023","2023",10,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","Not Available","10","2018","2018",13,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","Not Available","10","2019","2019",11,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+,"Milwaukee County, WI","55079","Not Available","10","2020","2020",26,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.3 (Methadone)"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified); X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified); X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system); X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics); X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified); X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified); X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system); X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances); Y10 (Poisoning by and"
+"exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent); Y11 (Poisoning by and exposure to"
+"antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent); Y12"
+"(Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent);"
+"Y13 (Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent); Y14 (Poisoning by"
+"and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent)"
+"Group By: County; Education; Year"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Feb 18, 2026 11:23:46 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Feb 18, 2026 11:23:46 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Education, Industry, Usual Occupation,"
+"Weekday or Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#NotApplicableRates."
+"2. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"3. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"4. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"5. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Confidence-Intervals."
+"6. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"7. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
