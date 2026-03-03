@@ -11,7 +11,9 @@ import plotly.express as px
 # -----------------------------
 # Paths 
 # -----------------------------
-DATA_PATH = Path("/Users/aleena/Desktop/GitHub Folder/pubhealth-dataviz/data")
+BASE_DIR = Path(__file__).resolve().parent 
+
+DATA_PATH = BASE_DIR / "data"
 DERIVED = DATA_PATH / "derived"
 TIGER_RAW = DATA_PATH / "raw" / "spatial-county"
 SHAPEFILE = TIGER_RAW / "tl_2025_us_county.shp"
