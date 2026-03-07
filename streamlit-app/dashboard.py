@@ -14,7 +14,7 @@ import plotly.express as px
 BASE_DIR = Path(__file__).resolve().parent
 DATA_PATH = BASE_DIR / "data"
 DERIVED = DATA_PATH / "derived"
-TIGER_RAW = DATA_PATH / "raw" / "spatial-county"
+TIGER_RAW = DATA_PATH / "raw" / "spatial-county-slim"
 SHAPEFILE = TIGER_RAW / "tl_2025_us_county.shp"
 STATE_RAW = DATA_PATH / "raw" / "spatial-state"
 STATE_SHAPEFILE = STATE_RAW / "tl_2025_us_state.shp"  
