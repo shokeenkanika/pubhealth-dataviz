@@ -1,0 +1,106 @@
+# -----------------------------
+# macOS
+# -----------------------------
+.DS_Store
+**/.DS_Store
+ 
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+ 
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+ 
+# Jupyter / IPython
+.ipynb_checkpoints/
+ 
+# Packaging / build
+build/
+dist/
+*.egg-info/
+ 
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+ 
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+ 
+# -----------------------------
+# Environment / local settings
+# -----------------------------
+.env
+.env.*
+.python-version
+ 
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/secrets.toml
+ 
+# -----------------------------
+# Project data folders
+# -----------------------------
+data/raw/
+data/derived/
+data/outputs/
+ 
+# Keep folder structure if needed
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+!data/outputs/.gitkeep
+ 
+# -----------------------------
+# Large data / geospatial files
+# -----------------------------
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.json
+*.geojson
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+*.qpj
+*.sbn
+*.sbx
+*.xml
+*.zip
+*.gz
+*.7z
+ 
+# Raster / imagery
+*.tif
+*.tiff
+*.img
+ 
+# Figures / generated outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+ 
+# Logs
+*.log
