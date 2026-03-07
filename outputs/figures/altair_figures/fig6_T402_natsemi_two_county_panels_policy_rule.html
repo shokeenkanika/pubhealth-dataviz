@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "hconcat": [{"layer": [{"mark": {"type": "line", "strokeWidth": 3}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "value", "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"mark": {"type": "point", "filled": true, "size": 55}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "value", "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"data": {"name": "data-152ee7980dc33ccdac71eabea2af1fab"}, "mark": {"type": "rule", "color": "red", "strokeWidth": 2}, "encoding": {"x": {"field": "switch_year", "type": "quantitative"}}}], "data": {"name": "data-e1cfb4bac166e41842363105995662a1"}, "height": 260, "title": "High burden: Cook County, IL", "width": 360}, {"layer": [{"mark": {"type": "line", "strokeWidth": 3}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "value", "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"mark": {"type": "point", "filled": true, "size": 55}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "value", "format": ".2f", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "value", "title": "Rate per 100k (county-year)", "type": "quantitative"}}}], "data": {"name": "data-4f53cda18c2baa0c0354bb5f9a3ecbe5"}, "height": 260, "title": "Low burden: Starke County, IN", "width": 360}], "title": "T402_natsemi: high vs low burden county trend (red line = first adult-use year, if any)", "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-e1cfb4bac166e41842363105995662a1": [{"year": 2018, "value": 2.586626407949977, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2019, "value": 3.7279866755542903, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2020, "value": 4.894011374465476, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2021, "value": 4.967963401767512, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2022, "value": 4.482029995545371, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2023, "value": 3.538381214183719, "county_fips": "17031", "mcd_type": "T402_natsemi"}, {"year": 2024, "value": 2.4119088869580754, "county_fips": "17031", "mcd_type": "T402_natsemi"}], "data-152ee7980dc33ccdac71eabea2af1fab": [{"switch_year": 2019.0}], "data-4f53cda18c2baa0c0354bb5f9a3ecbe5": []}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

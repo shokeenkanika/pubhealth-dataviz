@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"anchor": "start", "fontSize": 13, "fontWeight": "bold"}}, "layer": [{"mark": {"type": "line", "color": "#2166ac", "strokeWidth": 2.5}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "rate_per_100k", "format": ".2f", "title": "Rate/100k", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "rate_per_100k", "scale": {"zero": true}, "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"mark": {"type": "point", "color": "#2166ac", "filled": true, "size": 60}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "rate_per_100k", "format": ".2f", "title": "Rate/100k", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "rate_per_100k", "scale": {"zero": true}, "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"data": {"name": "data-c7cbad5c1e576e3848914b96f4ffa849"}, "mark": {"type": "rule", "color": "red", "strokeDash": [4, 3], "strokeWidth": 2}, "encoding": {"x": {"field": "x", "type": "quantitative"}}}], "data": {"name": "data-af8a4747e5182b0288d0b4a0f85158e6"}, "height": 260, "title": {"text": ["Highest (1367 deaths) burden \u2014 Cook County, IL (17031)", "Policy: Adult-use (any)"], "fontSize": 12}, "width": 380, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-af8a4747e5182b0288d0b4a0f85158e6": [{"year": 2018, "rate_per_100k": 2.586626407949977}, {"year": 2019, "rate_per_100k": 3.7279866755542903}, {"year": 2020, "rate_per_100k": 4.894011374465476}, {"year": 2021, "rate_per_100k": 4.967963401767512}, {"year": 2022, "rate_per_100k": 4.482029995545371}, {"year": 2023, "rate_per_100k": 3.538381214183719}, {"year": 2024, "rate_per_100k": 2.4119088869580754}], "data-c7cbad5c1e576e3848914b96f4ffa849": [{"x": 2019.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

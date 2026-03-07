@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-b9f42314dfbe7f4cba2afbe9ae326e53"}, "mark": {"type": "bar"}, "encoding": {"color": {"field": "sex", "title": "Sex", "type": "nominal"}, "column": {"field": "sex", "title": null, "type": "nominal"}, "tooltip": [{"field": "policy_group_label", "type": "nominal"}, {"field": "sex", "type": "nominal"}, {"field": "rate_per_100k", "format": ".2f", "type": "quantitative"}], "x": {"field": "policy_group_label", "title": "Policy category", "type": "nominal"}, "y": {"field": "rate_per_100k", "title": "Rate per 100k (all substances, 2018\u20132023 aggregated)", "type": "quantitative"}}, "height": 280, "title": "Sex heterogeneity: rates by policy category (all substances combined)", "width": 250, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-b9f42314dfbe7f4cba2afbe9ae326e53": [{"policy_group_label": "Adult-use (any)", "sex": "Female", "deaths": 99912, "population": 1655972318.0, "rate_per_100k": 6.033434189326829}, {"policy_group_label": "Adult-use (any)", "sex": "Male", "deaths": 314141, "population": 2176897411.0, "rate_per_100k": 14.43067543801677}, {"policy_group_label": "Medical only", "sex": "Female", "deaths": 34204, "population": 426490201.0, "rate_per_100k": 8.019879453221014}, {"policy_group_label": "Medical only", "sex": "Male", "deaths": 99346, "population": 579241430.0, "rate_per_100k": 17.15105219597293}, {"policy_group_label": "No medical/adult-use", "sex": "Female", "deaths": 30832, "population": 471859673.0, "rate_per_100k": 6.534146010820467}, {"policy_group_label": "No medical/adult-use", "sex": "Male", "deaths": 93766, "population": 683505393.0, "rate_per_100k": 13.718399439168726}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

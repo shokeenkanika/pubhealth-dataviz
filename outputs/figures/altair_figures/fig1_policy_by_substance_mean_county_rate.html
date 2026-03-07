@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-8793c80297e34305917e6fcf5ef88151"}, "mark": {"type": "bar"}, "encoding": {"column": {"field": "policy_group_label", "title": "Policy category", "type": "nominal"}, "tooltip": [{"field": "policy_group_label", "type": "nominal"}, {"field": "mcd_type", "type": "nominal"}, {"field": "mean_county_rate", "format": ".2f", "type": "quantitative"}], "x": {"field": "mcd_type", "title": "Multiple cause of death type", "type": "nominal"}, "y": {"field": "mean_county_rate", "title": "Mean county rate per 100k (2018\u20132023 summed then averaged across counties)", "type": "quantitative"}}, "height": 240, "title": "Policy category \u00d7 substance: mean county overdose mortality rate per 100k", "width": 210, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8793c80297e34305917e6fcf5ef88151": [{"policy_group_label": "Adult-use (any)", "mcd_type": "T401_heroin", "mean_county_rate": 7.879687503196357}, {"policy_group_label": "Adult-use (any)", "mcd_type": "T402_natsemi", "mean_county_rate": 5.718740442002521}, {"policy_group_label": "Adult-use (any)", "mcd_type": "T403_methadone", "mean_county_rate": 2.8113595633375668}, {"policy_group_label": "Adult-use (any)", "mcd_type": "T404_synthopioids", "mean_county_rate": 26.003093244586257}, {"policy_group_label": "Adult-use (any)", "mcd_type": "T405_cocaine", "mean_county_rate": 12.696005047022236}, {"policy_group_label": "Adult-use (any)", "mcd_type": "T436_psychostim", "mean_county_rate": 15.648829373225354}, {"policy_group_label": "Medical only", "mcd_type": "T401_heroin", "mean_county_rate": 7.698310617050563}, {"policy_group_label": "Medical only", "mcd_type": "T402_natsemi", "mean_county_rate": 9.734697634319314}, {"policy_group_label": "Medical only", "mcd_type": "T403_methadone", "mean_county_rate": 3.073863521350691}, {"policy_group_label": "Medical only", "mcd_type": "T404_synthopioids", "mean_county_rate": 31.715920067213375}, {"policy_group_label": "Medical only", "mcd_type": "T405_cocaine", "mean_county_rate": 9.792687044666106}, {"policy_group_label": "Medical only", "mcd_type": "T436_psychostim", "mean_county_rate": 21.24420375116658}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T401_heroin", "mean_county_rate": 6.022738421396851}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T402_natsemi", "mean_county_rate": 8.230189932253722}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T403_methadone", "mean_county_rate": 1.5811525640056736}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T404_synthopioids", "mean_county_rate": 25.150228973795308}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T405_cocaine", "mean_county_rate": 11.33351876402115}, {"policy_group_label": "No medical/adult-use", "mcd_type": "T436_psychostim", "mean_county_rate": 16.375671243117175}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

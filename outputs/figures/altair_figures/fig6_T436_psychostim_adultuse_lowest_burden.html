@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}, "title": {"anchor": "start", "fontSize": 13, "fontWeight": "bold"}}, "layer": [{"mark": {"type": "line", "color": "#2166ac", "strokeWidth": 2.5}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "rate_per_100k", "format": ".2f", "title": "Rate/100k", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "rate_per_100k", "scale": {"zero": true}, "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"mark": {"type": "point", "color": "#2166ac", "filled": true, "size": 60}, "encoding": {"tooltip": [{"field": "year", "format": "d", "type": "quantitative"}, {"field": "rate_per_100k", "format": ".2f", "title": "Rate/100k", "type": "quantitative"}], "x": {"axis": {"format": "d"}, "field": "year", "title": "Year", "type": "quantitative"}, "y": {"field": "rate_per_100k", "scale": {"zero": true}, "title": "Rate per 100k (county-year)", "type": "quantitative"}}}, {"data": {"name": "data-2e1d782cf00efb96dbf8d66e3ed73cad"}, "mark": {"type": "rule", "color": "red", "strokeDash": [4, 3], "strokeWidth": 2}, "encoding": {"x": {"field": "x", "type": "quantitative"}}}], "data": {"name": "data-c932f7d15375e2ad94630be313c56e53"}, "height": 260, "title": {"text": ["Lowest (10 deaths) burden \u2014 Curry County, OR (41015)", "Policy: Adult-use (any)"], "fontSize": 12}, "width": 380, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-c932f7d15375e2ad94630be313c56e53": [{"year": 2021, "rate_per_100k": 42.22438035721826}], "data-2e1d782cf00efb96dbf8d66e3ed73cad": [{"x": 2014.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
