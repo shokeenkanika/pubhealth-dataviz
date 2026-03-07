@@ -7,14 +7,24 @@ https://uchicago.box.com/s/1kebzzyeu25or4dqfza7vzu1n7qbbx4e
 
 To ensure that all files run as expected, please replace this folder as downloaded into the 'data' folder in your local clone of our repository. Do not change any folders. For reference, the expected folder structure should look like
 
-yourlocalreponame / data / derived / geo
-                  / outputs / figures / altair_figures
-                                      / baseline_death_maps
-                                      / heterogeneity_maps
-                                      / policy_maps
-                  / raw / dataverse_files
-                        / mcd-cdc
-                        / spatial-county
+<pre>
+yourlocalreponame/
+├── data/
+│   ├── derived/
+│   │   └── geo/
+│   ├── outputs/
+│   │   └── figures/
+│   │       ├── altair_figures/
+│   │       ├── baseline_death_maps/
+│   │       ├── heterogeneity_maps/
+│   │       └── policy_maps/
+│   └── raw/
+│       ├── dataverse_files/
+│       ├── mcd-cdc/
+│       └── spatial-county/
+</pre>
+
+Note that there is a folder called streamlit-app/raw available through Box will also have to be placed in the streamlit-app/data/raw folder if you are seeking to reproduce the project from scratch. This is not a required step to interact with the app online. 
 
 The authors give due credit to the open-source platforms that enabled the acquisition of our raw data and made this project possible as listed below - 
 
