@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-3b59773ea192edaee6b574c8845e1bdd"}, "mark": {"type": "rect"}, "encoding": {"color": {"field": "mean_county_rate", "scale": {"scheme": "yelloworangered"}, "title": "Mean county rate per 100k", "type": "quantitative"}, "tooltip": [{"field": "policy_group_label", "type": "nominal"}, {"field": "2023_urbanization", "type": "nominal"}, {"field": "mean_county_rate", "format": ".2f", "type": "quantitative"}], "x": {"field": "2023_urbanization", "title": "Urbanization (2023)", "type": "nominal"}, "y": {"field": "policy_group_label", "title": "Policy category", "type": "nominal"}}, "height": 180, "title": "Urbanization \u00d7 policy category: mean county overdose mortality rate per 100k", "width": 800, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-3b59773ea192edaee6b574c8845e1bdd": [{"policy_group_label": "Adult-use (any)", "2023_urbanization": "Large Central Metro", "mean_county_rate": 18.55730610703519}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "Large Fringe Metro", "mean_county_rate": 27.337815166527907}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "Medium Metro", "mean_county_rate": 27.801955544514243}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "Micropolitan (Nonmetro)", "mean_county_rate": 60.66808043145557}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "NonCore (Nonmetro)", "mean_county_rate": 83.26474893221587}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "Not Available", "mean_county_rate": 23.67150312757657}, {"policy_group_label": "Adult-use (any)", "2023_urbanization": "Small Metro", "mean_county_rate": 39.08360516646924}, {"policy_group_label": "Medical only", "2023_urbanization": "Large Central Metro", "mean_county_rate": 16.681965567668673}, {"policy_group_label": "Medical only", "2023_urbanization": "Large Fringe Metro", "mean_county_rate": 36.97892364666439}, {"policy_group_label": "Medical only", "2023_urbanization": "Medium Metro", "mean_county_rate": 38.506793490854065}, {"policy_group_label": "Medical only", "2023_urbanization": "Micropolitan (Nonmetro)", "mean_county_rate": 61.00820776290743}, {"policy_group_label": "Medical only", "2023_urbanization": "NonCore (Nonmetro)", "mean_county_rate": 127.6374395599146}, {"policy_group_label": "Medical only", "2023_urbanization": "Small Metro", "mean_county_rate": 47.94095594521218}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "Large Central Metro", "mean_county_rate": 15.300213017830886}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "Large Fringe Metro", "mean_county_rate": 35.25663406925353}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "Medium Metro", "mean_county_rate": 38.095153859174935}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "Micropolitan (Nonmetro)", "mean_county_rate": 55.366617661153505}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "NonCore (Nonmetro)", "mean_county_rate": 86.06480213928097}, {"policy_group_label": "No medical/adult-use", "2023_urbanization": "Small Metro", "mean_county_rate": 41.67815055738447}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
