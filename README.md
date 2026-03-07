@@ -36,7 +36,14 @@ The underlying death codes of relevance were:
 ## 2. State Cannabis Policies Bundle 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2SB7ZF 
 
+This dataset contains information on cannabis policy, categorizing all 50 U.S. States by type of policy on cannabis from 1994 to 2023. It contains measure for three cannabis policy bundles: pharmaceurical, permissive, and fiscal. We used this data to create our policy csv file called 'policy_state_2018_2023_minimal.csv' in which we have used the information found in this dataset to categorize all 50 states into one of three policy groups - All adult use allowed, only medical-use allowed and no adult/medical use allowed. The dataset is duly cited as follows: 
+
+Mallinson, Daniel; Richardson, Lilliard E. Jr.; Neeley, Grant W.; Altaf, Shazib, 2024, "State Cannabis Policy Bundles", https://doi.org/10.7910/DVN/2SB7ZF 
+
 ## 3. County and State TIGER Shapefiles 
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html 
+
+County - level and State - level shapefiles were directly taken from the TIGER dataset, made available by the US Census Bureau, as per the 2025 boundaries. 
 
 # Code Scripts 
 The order in which the code scripts must be run is clarified through the prefix (01, 02, 03 and so forth). The first file (preprocessing.py) runs data cleaning and aggregation steps. Please find more detailed steps on the manner of replicating the data acquisition for the raw data files in 'documentation/writeup'. 
