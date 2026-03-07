@@ -1,0 +1,37 @@
+file,drug,policy,burden,county,fips,total_deaths
+fig6_T401_heroin_adultuse_highest_burden.html,T401_heroin,Adult-use (any),Highest,"Cook County, IL",17031,3313
+fig6_T401_heroin_adultuse_lowest_burden.html,T401_heroin,Adult-use (any),Lowest,"Lynchburg city, VA",51680,10
+fig6_T401_heroin_medicalonly_highest_burden.html,T401_heroin,Medical only,Highest,"Allegheny County, PA",42003,1024
+fig6_T401_heroin_medicalonly_lowest_burden.html,T401_heroin,Medical only,Lowest,"Wayne County, WV",54099,10
+fig6_T401_heroin_nopolicy_highest_burden.html,T401_heroin,No medical/adult-use,Highest,"Harris County, TX",48201,1017
+fig6_T401_heroin_nopolicy_lowest_burden.html,T401_heroin,No medical/adult-use,Lowest,"Columbus County, NC",37047,10
+fig6_T402_natsemi_adultuse_highest_burden.html,T402_natsemi,Adult-use (any),Highest,"Cook County, IL",17031,1367
+fig6_T402_natsemi_adultuse_lowest_burden.html,T402_natsemi,Adult-use (any),Lowest,"Howard County, MD",24027,10
+fig6_T402_natsemi_medicalonly_highest_burden.html,T402_natsemi,Medical only,Highest,"Philadelphia County, PA",42101,683
+fig6_T402_natsemi_medicalonly_lowest_burden.html,T402_natsemi,Medical only,Lowest,"Putnam County, WV",54079,10
+fig6_T402_natsemi_nopolicy_highest_burden.html,T402_natsemi,No medical/adult-use,Highest,"Harris County, TX",48201,879
+fig6_T402_natsemi_nopolicy_lowest_burden.html,T402_natsemi,No medical/adult-use,Lowest,"Cheatham County, TN",47021,10
+fig6_T403_methadone_adultuse_highest_burden.html,T403_methadone,Adult-use (any),Highest,"Cook County, IL",17031,725
+fig6_T403_methadone_adultuse_lowest_burden.html,T403_methadone,Adult-use (any),Lowest,"Anchorage Borough, AK",02020,10
+fig6_T403_methadone_medicalonly_highest_burden.html,T403_methadone,Medical only,Highest,"Philadelphia County, PA",42101,327
+fig6_T403_methadone_medicalonly_lowest_burden.html,T403_methadone,Medical only,Lowest,"Jefferson County, AL",01073,10
+fig6_T403_methadone_nopolicy_highest_burden.html,T403_methadone,No medical/adult-use,Highest,"Harris County, TX",48201,141
+fig6_T403_methadone_nopolicy_lowest_burden.html,T403_methadone,No medical/adult-use,Lowest,"Fulton County, GA",13121,10
+fig6_T404_synthopioids_adultuse_highest_burden.html,T404_synthopioids,Adult-use (any),Highest,"Cook County, IL",17031,8831
+fig6_T404_synthopioids_adultuse_lowest_burden.html,T404_synthopioids,Adult-use (any),Lowest,"Sherburne County, MN",27141,10
+fig6_T404_synthopioids_medicalonly_highest_burden.html,T404_synthopioids,Medical only,Highest,"Philadelphia County, PA",42101,5650
+fig6_T404_synthopioids_medicalonly_lowest_burden.html,T404_synthopioids,Medical only,Lowest,"Box Elder County, UT",49003,10
+fig6_T404_synthopioids_nopolicy_highest_burden.html,T404_synthopioids,No medical/adult-use,Highest,"Marion County, IN",18097,2783
+fig6_T404_synthopioids_nopolicy_lowest_burden.html,T404_synthopioids,No medical/adult-use,Lowest,"McLennan County, TX",48309,10
+fig6_T405_cocaine_adultuse_highest_burden.html,T405_cocaine,Adult-use (any),Highest,"Cook County, IL",17031,5143
+fig6_T405_cocaine_adultuse_lowest_burden.html,T405_cocaine,Adult-use (any),Lowest,"Livingston County, NY",36051,10
+fig6_T405_cocaine_medicalonly_highest_burden.html,T405_cocaine,Medical only,Highest,"Philadelphia County, PA",42101,3768
+fig6_T405_cocaine_medicalonly_lowest_burden.html,T405_cocaine,Medical only,Lowest,"Dauphin County, PA",42043,10
+fig6_T405_cocaine_nopolicy_highest_burden.html,T405_cocaine,No medical/adult-use,Highest,"Harris County, TX",48201,2522
+fig6_T405_cocaine_nopolicy_lowest_burden.html,T405_cocaine,No medical/adult-use,Lowest,"Williamson County, TN",47187,10
+fig6_T436_psychostim_adultuse_highest_burden.html,T436_psychostim,Adult-use (any),Highest,"Los Angeles County, CA",06037,7071
+fig6_T436_psychostim_adultuse_lowest_burden.html,T436_psychostim,Adult-use (any),Lowest,"Curry County, OR",41015,10
+fig6_T436_psychostim_medicalonly_highest_burden.html,T436_psychostim,Medical only,Highest,"Jefferson County, KY",21111,1192
+fig6_T436_psychostim_medicalonly_lowest_burden.html,T436_psychostim,Medical only,Lowest,"Bath County, KY",21011,10
+fig6_T436_psychostim_nopolicy_highest_burden.html,T436_psychostim,No medical/adult-use,Highest,"Harris County, TX",48201,2063
+fig6_T436_psychostim_nopolicy_lowest_burden.html,T436_psychostim,No medical/adult-use,Lowest,"Shelby County, IN",18145,10
