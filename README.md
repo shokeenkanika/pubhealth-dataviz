@@ -60,6 +60,7 @@ The order in which the code scripts must be run is clarified through the prefix 
 
 # Dashboard
 The code in this repo creates a dashboard that can be found at the following link:-
+https://mcod-by-us-county.streamlit.app/ 
 
 This dashboard requires to be awoken after 24 hours of inactivity. This is not a bug, just an intended feature by streamlit! The dashboard showcases an interactive map of US Counties, intended for any audience interested in understanding drug abuse patterns. It covers spatial relationships across urbanization, race, sex and education levels. The interactive map can also be filtered by state to explore more granularly. Finally, the dashboard covers two metrics - Rate per 100k and Death burden. The latter is a metric of total deaths, and the former is the death count normalised by population. The most fascinating example of the differences in the use of these metrics can be found in Illinois. By rate per 100k, Marion County has the highest incidence of drug related mortality, as high as 41 percent of deaths. Comparatively, by death burden or total death count, Cook County leads not just illinois but is one of the highest in the country, with 20204 deaths from drug related mortality. Interestingly, total death count in Marion County is 15. 
 
