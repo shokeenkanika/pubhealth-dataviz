@@ -10,4 +10,4 @@ altair>=5.2
 openpyxl>=3.1
 shapely>=2.0
 pyproj>=3.6
-fiona>=1.9
+pyogrio>=0.7
