@@ -1,0 +1,78 @@
+---
+title: "An Exploratory Study on Drug Abuse Mortality by US County"
+subtitle: "PPHA 30538: Data Analytics and Visualization — Final Project Writeup"
+author: 
+  - "Group 32"
+  - "Kanika Shokeen Section 3: Tues/Thurs 9:30 a.m. GitHub: shokeenkanika"
+  - "Aleena Khan Section 1: Mon/Wed 9:00 a.m. GitHub: akxdata"
+jupyter: python3
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    fontsize: 10pt
+    geometry: margin=1in
+    colorlinks: true
+  html:
+    toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    theme: cosmo
+    self-contained: true
+---
+GitHub: [shokeenkanika/pubhealth-dataviz](https://github.com/shokeenkanika/pubhealth-dataviz) | Dashboard: [pubhealth-dataviz.streamlit.app](https://mcod-by-us-county.streamlit.app/) 
+(Reminder: The app will likely ask to be woken up, just say yes!)
+
+## Research Question
+
+Drug overdose mortality varies substantially across US counties, shaped by geography, demographics, and state-level policies. This project explores and visualizes where deaths are highest, and how patterns differ by substance type, urbanization, sex, race, education, and state-level cannabis policies. We do not make causal claims about cannabis legalization and overdose mortality. Cannabis policy serves as a contextual lens for cross-county variation. If anything, the data may reflect selection bias: high-burden states may have adopted cannabis-friendly policies in response to their crisis, not the other way around.
+
+## Data and Methods
+
+This project draws on three data sources: CDC Multiple Cause of Death (MCOD) data at the county level (2018–2023), a State Cannabis Policies Bundle (Harvard Dataverse), and US Census TIGER shapefiles for spatial mapping. Full details on data sourcing, cleaning, and code scripts are documented in our repository README.md.
+
+We chose cannabis legalization as a proxy for a state's broader harm-reduction infrastructure, as cannabis-friendly policies tend to accompany wider public health investments — rehabilitation access, healthcare worker training, and addiction support services. However, the literature cautions against causal interpretation: Shover et al. (2019, PNAS) found that the association between cannabis laws and opioid mortality reversed direction over time, consistent with our concern that high-burden states may have self-selected into reform policies.
+
+## Static Figures
+
+### Figure 1: T40.1 Heroin — Trends in the Highest-Burden Counties
+
+This figure shows heroin death rates per 100k (2018–2024) for the three highest-burden counties: Cook County, IL (Adult-use), Harris County, TX (No policy), and Allegheny County, PA (Medical only). All three peak around 2019–2020 then decline sharply — a trend present across all policy environments, likely reflecting the national shift toward synthetic opioids (fentanyl) displacing heroin in the drug supply. Covid-19 may also be a confounder.
+
+```{python}
+#| echo: false
+from IPython.display import Image, display
+display(Image("combined_visualization.png"))
+```
+
+### Figure 2: Synthetic Opioids (Fentanyl) — Trends in the Highest-Burden Counties
+
+This figure shows synthetic opioid death rates (2018–2024) for the three highest-burden counties across policy categories. Compared to Figure 1, this provides strong evidence of the fentanyl crisis in the US — most strikingly in Cook County, IL, where heroin-related deaths decreased as synthetic opioid-related deaths increased, a direct illustration of fentanyl substitution in the drug supply.
+
+```{python}
+#| echo: false
+from IPython.display import Image, display
+display(Image("combined_visualization2.png"))
+```
+
+### Figure 3: Policy Category × Substance — Mean County Overdose Mortality Rate per 100k
+
+These bar charts compare mean overdose mortality rates by substance and policy category. Synthetic opioids (T40.4) dominate across all three policy groups. Counterintuitively, counties with no cannabis policy show the lowest mean rates — consistent with our selection bias argument: high-burden states may have adopted cannabis-friendly policies in response to their crisis, not the other way around.
+
+```{python}
+#| echo: false
+from IPython.display import Image, display
+display(Image("visualization copy 3.png"))
+```
+
+## Streamlit Dashboard
+
+The app presents a US county-level choropleth map where users can hover over any county to view a snapshot of drug-related death statistics, with state boundary lines preserved. Users can filter by year (2018–2023), metric (death burden or rate per 100k), drug type, demographic subgroup, and US state. The ability to toggle between death burden and rate per 100k is particularly valuable — it surfaces cases like Cook vs. Marion County in Illinois, where the two metrics point to entirely different counties as most affected, a nuance best explored interactively.
+
+## Limitations and Future Directions
+
+Two limitations are worth noting. First, the CDC Wonder portal suppresses counts below 10, meaning rural counties are likely underrepresented — reflecting reporting thresholds rather than an absence of deaths. Second, cannabis policy should not be interpreted causally, as discussed above. Future work could incorporate covariates like poverty rates, healthcare access, and naloxone availability, and explore why synthetic opioid mortality dominates so consistently across all policy environments.
+
+## References
+
+Shover, C. L., Davis, C. S., Gordon, S. C., & Humphreys, K. (2019). Association between medical cannabis laws and opioid overdose mortality has reversed over time. *Proceedings of the National Academy of Sciences, 116*(26), 12624–12626. https://doi.org/10.1073/pnas.1903434116
